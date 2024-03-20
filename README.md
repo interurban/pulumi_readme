@@ -31,15 +31,20 @@ and package management that you already know and love.
 ## Table of contents
 
 - :rocket: [Getting Started](#getting-started)
-- :hammer_and_wrench:	 [Examples](#examples)
-- :blue_book: [Docs] (#docs)
+- :hammer_and_wrench: [Examples](#examples)
+- :blue_book: [Docs](#docs)
 - :school: [Learn](#learn)
-- :toolbox:	[Registry] (#registry)
-- :compass:	[Pulumi Roadmap] (#pulumi-roadmap)
+- :toolbox:	[Registry](#registry)
+- :compass:	[Pulumi Roadmap](#pulumi-roadmap)
 - :busts_in_silhouette: [Community](#community)
 - :clap: [Contributing](#contributing)
 - :memo: [License](#license)
 
+## Getting Started
+<img align="right" width="400" src="https://www.pulumi.com/images/docs/quickstart/console.png" />
+**[Get Started with Pulumi](https://www.pulumi.com/docs/get-started/)**: Deploy a simple application in AWS, Azure, Google Cloud, or Kubernetes using Pulumi.
+
+## Examples
 
 For example, create three web servers:
 
