@@ -11,11 +11,11 @@
   [![GoDoc](https://godoc.org/github.com/pulumi/pulumi?status.svg)](https://godoc.org/github.com/pulumi/pulumi)
   [![License](https://img.shields.io/github/license/pulumi/pulumi)](LICENSE)
   [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pulumi/pulumi)
-</p>
 
-<a href="https://www.pulumi.com/docs/get-started/?utm_campaign=pulumi-pulumi-github-repo&utm_source=github.com&utm_medium=get-started-button" title="Get Started">
+  <a href="https://www.pulumi.com/docs/get-started/?utm_campaign=pulumi-pulumi-github-repo&utm_source=github.com&utm_medium=get-started-button" title="Get Started">
     <img src="https://www.pulumi.com/images/get-started.svg?" align="right" width="120">
-</a>
+  </a>
+</p>
 
 **Pulumi's Infrastructure as Code SDK** is the easiest way to build and deploy infrastructure, of any architecture and on any cloud, using programming languages that you already know and love. Code and ship infrastructure faster with your favorite languages and tools, and embed IaC anywhere with [Automation API](https://www.pulumi.com/docs/guides/automation-api/).
 
@@ -27,6 +27,19 @@ Simply write code in your favorite language and Pulumi automatically provisions 
 [infrastructure-as-code](https://www.pulumi.com/what-is/what-is-infrastructure-as-code/) approach.
 Skip the YAML, and use standard language features like loops, functions, classes,
 and package management that you already know and love.
+
+## Table of contents
+
+- :rocket: [Getting Started](#getting-started)
+- :hammer_and_wrench:	 [Examples](#examples)
+- :blue_book: [Docs] (#docs)
+- :school: [Learn](#learn)
+- :toolbox:	[Registry] (#registry)
+- :compass:	[Pulumi Roadmap] (#pulumi-roadmap)
+- :busts_in_silhouette: [Community](#community)
+- :clap: [Contributing](#contributing)
+- :memo: [License](#license)
+
 
 For example, create three web servers:
 
