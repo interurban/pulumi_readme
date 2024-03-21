@@ -164,7 +164,9 @@ Review the planned work for the upcoming quarter and a selected backlog of issue
 
 ## Community
 
-Join us in the [Pulumi Community Slack] (https://slack.pulumi.com/?utm_campaign=pulumi-pulumi-github-repo&utm_source=github.com&utm_medium=welcome-slack) to connect with our community and engineering team and ask questions. All conversations and questions are welcome.
+- Join us in the [Pulumi Community Slack](https://slack.pulumi.com/?utm_campaign=pulumi-pulumi-github-repo&utm_source=github.com&utm_medium=welcome-slack) to connect with our community and engineering team and ask questions. All conversations and questions are welcome.
+- Send us a tweet via [(]@PulumiCorp](https://twitter.com/PulumiCorp)
+- Watch videos and workshops on [Pulumi TV](https://www.youtube.com/pulumitv)
 
 ### Discussions
 
@@ -192,4 +194,8 @@ The Pulumi CLI v1 and v2 are no longer supported. If you are not yet running v3,
 
 ## Contributing
 
-Visit [CONTRIBUTING.md](https://github.com/pulumi/pulumi/blob/master/CONTRIBUTING.md) for information on building Pulumi from source or contributing improvements.
+Contributions to Pulumi are welcome. Read our [contributing guide](https://github.com/pulumi/pulumi/blob/master/CONTRIBUTING.md) for information on building Pulumi from source or contributing improvements.
+
+Looking for a first issue to tackle?
+
+- We tag issues with [![Good First Issue](linktbd) for people new to our codebase or OSS contributions in general.
